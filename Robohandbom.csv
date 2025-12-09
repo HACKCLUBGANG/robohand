@@ -1,12 +1,10 @@
-Item,Quantity,Approx Cost ($)
-Arduino UNO,1,9.64
-Flex Sensor 2.2 inch,1,1.81
-Servo Motors,5,15.06
-Resistor 10kΩ,5,0.12
-Transparent String,~5 m,0.60
-Elastic Rope 2–3 mm,~10 m,1.20
-Adhesive Glue (Fevicol),1,0.24
-Gloves,1 pair,1.20
-Breadboard,1,2.41
-Jumper Wires,Several,1.81
-Total,,34.09
+Item,Quantity,Cost (₹),Link
+Arduino UNO,1,325,https://amzn.in/d/6vS3cPo
+Flex Sensor 2.2 inch,5,279,https://amzn.in/d/bNK2lQn
+Servo Motors,5,210,https://amzn.in/d/4b3uaZX
+Resistor 10kΩ,5,210,https://amzn.in/d/2IZ8ceN
+Transparent String,~5 m,189,https://amzn.in/d/cYr70lK
+Elastic Rope 2–3 mm,~10 m,182,https://amzn.in/d/hvMIPiy
+Adhesive Glue (Fevicol),1,20,Available
+Gloves,1 pair,Already have,Already have
+Breadboard + Jumper Wires,1 set,210,https://amzn.in/d/4I5tI7l
