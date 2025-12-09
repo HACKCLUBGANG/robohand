@@ -1,11 +1,8 @@
-Item,Quantity,Cost ($),Link
-Arduino UNO,1,3.92,https://amzn.in/d/6vS3cPo
-Flex Sensor 2.2 inch,5,3.36,https://amzn.in/d/bNK2lQn
-Servo Motors,5,2.53,https://amzn.in/d/4b3uaZX
-Resistor 10kΩ,5,2.53,https://amzn.in/d/2IZ8ceN
-Transparent String,~5 m,2.27,https://amzn.in/d/cYr70lK
-Elastic Rope 2–3 mm,~10 m,2.19,https://amzn.in/d/hvMIPiy
-Adhesive Glue (Fevicol),1,0.24,Available
-Gloves,1 pair,Already have,Already have
-Breadboard + Jumper Wires,1 set,2.53,https://amzn.in/d/4I5tI7l
-Total,,19.57,
+Item,Quantity,Price (₹),Total Price (₹)
+ApTechDeals Breadboard 840 point + jumper wires Set,1,210,210
+Electronic Spices 500pcs 10KΩ Resistors,1,210,210
+Aptechdeals SG90 Micro Servo Motor,5,210,1050
+ROBODIUM 2.2-inch Flex Sensor,5,279,1395
+Build-o-Bot Uno R3 SMD Board,1,325,325
+Total,, ,3190
+Total in USD,, ,38.43
