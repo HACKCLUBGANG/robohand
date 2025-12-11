@@ -4,3 +4,7 @@ The robohand that i am making uses flex sensors servo motors 3d parts arduino un
 It helps people with disabilities do work without needing help or any extra work it can be used wearing a glove with flex sensors
 
 ![CAD Model](CAD/assembledHAND(2).jpeg)
+
+Circuit
+
+![Circuit](pcb/RoboHandCircuitHackClub.png)
